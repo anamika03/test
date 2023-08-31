@@ -1,0 +1,6 @@
+{{#user}}
+Name: Anamika
+Skills: AWS, Linux, Shell Script, Web app server
+Email: anamikasingh361996@gmail.com
+{{/user}}
+
